@@ -20,7 +20,7 @@
     },
     "AUTO_BIO": {
       "description": "Enter yes for your bot to auto update bio",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_READ_STATUS": {
@@ -85,7 +85,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "cklamzy",
       "required": false
     },
     "SESSION_ID": {
