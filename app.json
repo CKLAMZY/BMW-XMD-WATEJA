@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "255616564686",
+      "value": "",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
@@ -90,7 +90,7 @@
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": " BWM-XMD;;;H4sIAAAAAAAAA62Va47iRhDH79JfQTt+t4000vrJ2zwMGBxFUWM30OAX7sZgVtwgd1gpZ8mBcoTIzEx2pE1mJtL4U7vdrvpVddW/voE0IxT3cQVa30BekBIxXC9ZlWPQAsZps8EFaIIIMQRaoOGKkeJPeu4hG0wtoc8JpetKsZ3acy4yIrTGmbUngyxO54/g1gT5aR2T8A2DnhnnVJEPUU+oLqfhjJpGvkdt12tA7eqO9rt2d1Xt4D63w0dwqy0iUpB0a+c7nOACxX1cjREpPoa/dSfREp25RJueuFmns7QmurQn3k5x18lSG4bneNovjW0uHj6GTzo4blvOAStICOSLMdTRPJ1s2yRVek5GKb1sjI7JOMfYPuFTsk1x1I1wygirPpz3eWdIvXWZFRXrNarBZI4ax17Uk7fV1FmIupsnvehBMYKD/0Hwk+qXZrVkXKTMtDJp9Lrn+cowNM8aO23rMPJtGs8srbFYZK/Bx8VLrRz+V96dg5l47npujQdOccbUeCgcod0z+dNynnJ0WODR1RqPBJ9+DP/oVcKlI0xgPA8GR9c3Ak+NJ0LSPvanXCZzq2gcjJkyNv1X+Iidirco0/NAVGZB/6xHntK/tk/SmIgrVqYPvXDq6GFpTypRca0szjTkGu0Nga59NNqb2bLhH6+JeNURbPgYW8zg0/OsLBuBfn68R3TAVTcCLf7WBAXeEsoKxEiW1nuCwDcBikoPhwVm9/QCvIeTRjIZ5jqdr68+C8g+S7KJL/uXoJ1pl7F1XYf9eBLtwkfQBHmRhZhSHHUIZVlRDTGlaIspaP1yv6k66AInGcM9EoEWEGRZ4RVZkRRV+Uq/nHeIUZTnX1LMQBNsiiwZYtBixQk3wf0HDkJT1qHtyJYMeVEzLVEVOU6xVdOQHFuqQ0yenM5IgilDSQ5aPJQ0lZcVlb81P4fDgJrgcAbvqKZqiYZlSDKUVVHgZMG0bGi+wyF8Fgen8HUuREO2oQQ1yNmywjkWBzmLl6H4Tj406bM4FIXToCoZjukYhsg7piJooqpzgqUqnCRq73Bon8YhWJYuGFC1NV6TeVkUJEWSTdG0OZVTbf1NDsjJt1+bIMUX9qQvdVeIfBNsSEHZPD3lcYaiF/F5+YjCMDulzKvS0KwXuACtV9uYMZJuaR3ZKUVFuCMlNus4QGuDYor/aURc4OgllufhYmZRrQ+aBBcrq6uBmr029FNuWvzP2Ynvp6Ak8TIPRZWTeAhb/Nd6uwlSVFsCf33//fuff2SDCLu/HYhl1e91ip7ha18RZojEFLSA2ffPiiS17bFP6LDbbuv2Vje3OvgR7Iu4PYnHup+dh9Dar2W+k+/kteppsZTky7IThKP1hCvP42tnlm8X1/Pjvxip9TqMRoOdUFJh0z/OkvSSrfSoMxrM6NHaSA8D3vZMvbv1iMDvS2FTXjM7nsz81aAKFKb4ezrdBwcdHvFQw+NIZsdgebEmj7W3CJckxK+dydxUHG39AzmZO/niDmfReSUIfsSVIzXvhLugQGR6gMvNeppW46njkJHXgxoLZvTExI6xSJNGNKtOi67E1sxYu4v+3tCfZPcu+/HzuCXPgkjurxuC79Pr+Ureu9Yn7rr4uFvzlYnncfgfI8Xwq+PQGp0loRFNlRX2H+wywL3jAl6EpZVw7kC11AunrJxQBbe6C/IYsU1WJKAFUBoV2b1siuxUV3M33WRvODP1bteYPAUeI8r0Hx3yL80P4dOpcZHlHUR39QBMRGNdV3ul57nHEHvpN6DXj9MYgdvfcppmmjIKAAA=",
+      "value": "",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
